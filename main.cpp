@@ -27,6 +27,7 @@ std::vector<int> sort_b(std::vector<int> v)
   return v;
 }
 
+
 auto create_series()
 {
   const int sz{100'000};
