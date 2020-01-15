@@ -20,6 +20,7 @@ std::vector<int> sort_a(std::vector<int> v)
   return v;
 }
 
+
 std::vector<int> sort_b(std::vector<int> v)
 {
   std::sort(std::begin(v), std::end(v));
